@@ -43,11 +43,11 @@
 
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=freaker99&show_icons=true&theme=tokyonight&layout=donut" alt="freaker99" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=freaker99&show_icons=true&theme=tokyonight&layout=donut" alt="freaker99" /></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freaker99&show_icons=true&theme=tokyonight&locale=en" alt="freaker99" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=freaker99&show_icons=true&theme=tokyonight&locale=en" alt="freaker99" /></p>
 
 <br>
 
