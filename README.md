@@ -2,13 +2,13 @@
   <img src="https://64.media.tumblr.com/29b8ab4af062d19e3ff260d7494e3a09/tumblr_p34lclV2HM1x3na79o1_540.gif" alt="MasterHead">
 </div>
 <h1 align="center">Hi 👋, I'm Olek.</h1>
-<h3 align="center">A passionate data scientist from Poland.</h3>
+<h3 align="center">A passionate data scientist and machine learning enthusiast from Poland.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freaker99&label=Profile%20views&color=0e75b6&style=flat" alt="freaker99" /> </p>
 
-- 🔭 I’m currently working on [Car detection.](https://github.com/Freaker99/car-detection)
+- 🔭 I’ve recently finished working on my Master's thesis project - [Car detection.](https://github.com/Freaker99/car-detection)
 
-- 🌱 I’m currently learning **Machine Learning, SQL.**
+- 🌱 I’m currently learning about **Machine Learning, SQL.**
 
 - 🤝 I’m looking for help with **getting my first IT experience!**
 
