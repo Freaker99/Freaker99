@@ -2,7 +2,12 @@
   <img src="https://64.media.tumblr.com/29b8ab4af062d19e3ff260d7494e3a09/tumblr_p34lclV2HM1x3na79o1_540.gif" alt="MasterHead">
 </div>
 <h1 align="center" style="text-decoration: none; color: black;">Hi 👋, I'm Olek.</h1>
-<h3 align="center" style="text-decoration: none; color: black;">A passionate data scientist and machine learning enthusiast from Poland.</h3>
+
+I'm a beginner **Machine Learning Engineer** :seedling: that seeks for oportunity to transform ideas :bulb: into digital realities :earth_africa:. My deepest passion lies in Data Science and Machine Learning, but I am also enthusiastic about exploring other learning avenues :computer:. My foremost goal is to secure an internship where I can put my skills to the test in real-world IT environment. I am eager to gain more experience, expand my knowledge, and, most importantly, **cultivate a thriving community**.
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+<br>
+
+**I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more!** :blush:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freaker99&label=Profile%20views&color=0e75b6&style=flat" alt="freaker99" /> </p>
 
