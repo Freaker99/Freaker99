@@ -17,7 +17,7 @@ I'm a beginner **Machine Learning Engineer** :seedling: that seeks for oportunit
 
 - 🤝 I’m looking for help with **getting my first IT experience!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Freaker99?tab=repositories](https://github.com/Freaker99?tab=repositories)
+- 👨‍💻 All of my projects are available here - [Projects.](https://github.com/Freaker99?tab=repositories)
 
 - 📫 How to reach me - **aleksanderkostecki99@gmail.com**
 
