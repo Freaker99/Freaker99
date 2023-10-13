@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://64.media.tumblr.com/29b8ab4af062d19e3ff260d7494e3a09/tumblr_p34lclV2HM1x3na79o1_540.gif" alt="MasterHead">
 </div>
-<h1 align="center"><span style="text-decoration: none; color: black;">Hi 👋, I'm Olek.</span></h1>
-<h3 align="center"><span style="text-decoration: none; color: black;">A passionate data scientist and machine learning enthusiast from Poland.</span></h3>
+<h1 align="center" style="text-decoration: none; color: black;">Hi 👋, I'm Olek.</h1>
+<h3 align="center" style="text-decoration: none; color: black;">A passionate data scientist and machine learning enthusiast from Poland.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freaker99&label=Profile%20views&color=0e75b6&style=flat" alt="freaker99" /> </p>
 
