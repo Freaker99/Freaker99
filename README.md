@@ -3,7 +3,7 @@
 </div>
 <h1 align="center" style="text-decoration: none; color: black;">Hi 👋, I'm Olek.</h1>
 
-I'm a **Data Analyst** at **Uber** :car: that seeks for oportunity to transform ideas :bulb: into digital realities :earth_africa:. My deepest passion lies in Data Science and Machine Learning, but I am also enthusiastic about exploring other learning avenues :computer:. I am eager to gain more experience, expand my knowledge, and, most importantly, **cultivate a thriving community** :seedling:.
+I'm a **Senior Data Analyst** at **Uber** :car: that seeks for oportunity to transform ideas :bulb: into digital realities :earth_africa:. My deepest passion lies in Data Science and Machine Learning, but I am also enthusiastic about exploring other learning avenues :computer:. I am eager to gain more experience, expand my knowledge, and, most importantly, **cultivate a thriving community** :seedling:.
 
 **I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more!** :blush:
 
@@ -15,7 +15,7 @@ I'm a **Data Analyst** at **Uber** :car: that seeks for oportunity to transform 
 
 - 📫 How to reach me - **aleksanderkostecki99@gmail.com**
 
-- ⚡ Fun fact - **I have more than 300 tarantulas!**
+- ⚡ Fun fact - **I have more than 100 tarantulas!**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freaker99&label=Profile%20views&color=0e75b6&style=flat" alt="freaker99" /> </p>
 
